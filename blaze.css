@@ -1,0 +1,83 @@
+.body {
+    background-color:#d7fdc9;
+    background-image: url(images/bkgd-image.gif);
+    background-position: center center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    padding: 5px;
+    font-family:fantasy;
+    font-size: 50px;
+    color:cadetblue;
+}
+
+#description {
+    font-family:monospace;
+    text-align: center;
+    padding: -5px;
+    font-size: 30px;
+    color:black;
+    border-bottom: 1px double cadetblue;
+    border-bottom-width: 13px;
+}
+
+#blaze {
+    margin-left: 100px;
+}
+
+#play {
+    margin-left: 120px;
+}
+
+.title {
+    font-family:monospace;
+    text-align: center;
+    padding: -5px;
+    font-size: 50px;
+    color:black;
+}
+
+.info {
+    padding: 5px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+.characteristics {
+    font-family:monospace;
+    font-size: 25px;
+    color: black;
+    padding: -5px;
+}
+
+li {
+    font-family: monospace;
+    font-size: 22px;
+}
+
+.email {
+    font-family:fantasy;
+    font-size: 25px;
+}
+
+a:link {
+    color:forestgreen;
+}
+
+a:hover {
+    color:royalblue;
+}
+
+a:visited {
+    color:forestgreen;
+}
+
+.home {
+    text-align: center;
+    font-family:fantasy;
+    font-size:  25px;
+}

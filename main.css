@@ -1,0 +1,56 @@
+.body {
+    background-color:#d7fdc9;
+    background-image: url(images/bkgd-image.gif);
+    background-position: center center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    padding: 5px;
+    font-family:fantasy;
+    font-size: 50px;
+    color:cadetblue;
+}
+
+#slogan {
+    font-family:monospace;
+    text-align: center;
+    padding: -5px;
+    font-size: 30px;
+    color:black;
+    border-bottom: 1px double cadetblue;
+    border-bottom-width: 13px;
+}
+
+#main {
+    margin-left: 275px;
+}
+
+#featurepic {
+    margin-left: 275px;
+}
+
+#generalDescription {
+    padding: 5px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+#featured {
+    font-family:monospace;
+    text-align: center;
+    padding: -5px;
+    font-size: 30px;
+    color:black;
+}
+
+#footer {
+    padding: 5px;
+    border: 2px solid #d7fdc9;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+}
